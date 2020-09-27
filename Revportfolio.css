@@ -1,0 +1,23 @@
+.header {
+    display: grid;
+    grid-template-columns: auto;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+}
+
+
+
+
+
+
+
