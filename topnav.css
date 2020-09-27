@@ -1,0 +1,30 @@
+.topnav {
+    overflow: hidden;
+    background-color: pink;
+}
+
+.fa-linkedin {
+    float: left;
+    display: block;
+    color: white;
+    padding: 16px;
+}
+
+.fa-facebook {
+    float: center;
+    display: block;
+    color: white;
+    padding: 16px;
+}
+
+.topnav:link {
+    color: red;
+}
+
+.topnav:visited {
+    color: green;
+}
+
+.topnav:hover {
+    color: blue;
+}
